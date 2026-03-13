@@ -1,0 +1,1 @@
+start C:\workspace\telegram\chat-clone\create_session\screator\Scripts\activate &

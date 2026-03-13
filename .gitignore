@@ -1,0 +1,42 @@
+*.log
+.env
+trackers/
+*.pkl
+*.session
+Lib/
+site-packages/
+
+
+# Byte-compiled / optimized / run-time files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.eggs/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distributions and packaging
+dist/
+build/
+wheels/
+*.whl
+
+# Specific editors and IDEs
+.vscode/        # Visual Studio Code
+.idea/          # PyCharm/IntelliJ
+*.swp           # vim
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+.DS_Store       # macOS system files
+thumbs.db       # Windows system files
+npm-debug.log*  # npm logs
