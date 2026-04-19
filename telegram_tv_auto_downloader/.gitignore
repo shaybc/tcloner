@@ -1,0 +1,6 @@
+.env
+state.json
+app.log
+telegram_session*
+__pycache__/
+*.pyc
